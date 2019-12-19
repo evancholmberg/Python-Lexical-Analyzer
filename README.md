@@ -3,6 +3,7 @@ Lexical Analyzer written in Python for use with .txt files.
 
 Example text in an input file could be:
 
+
 a
 num1 = num1 + 1
 num3= num1/2 +num2
